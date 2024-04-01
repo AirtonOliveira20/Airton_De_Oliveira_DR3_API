@@ -1,0 +1,606 @@
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194536.200.json
+
+###
+
+DELETE http://localhost:8080/carros/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194531.200.json
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194523.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194522.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194521-1.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194521.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194520.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194519.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194518-1.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194518.404.html
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194516.404.html
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T194510.200.json
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 73
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T194506.200.json
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194458.404.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T194453.200.json
+
+###
+
+DELETE http://localhost:8080/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T192056.404.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T192043.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T174022.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T174018.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T174015.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T173849.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T173838.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T173832.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T172223.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T172218.200.json
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 73
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T172211.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T172206.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T172150.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T172147.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T172146.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T171929.200.json
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T171922.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T171752.404.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T171716.200.json
+
+###
+
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+Content-Length: 69
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+<> 2024-03-31T171702.404.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T140130.200.json
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T134614.200.json
+
+###
+
+DELETE http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T133141-4.200.html
+
+###
+
+PATCH http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"nome": "nome do produto"
+}
+
+<> 2024-03-31T133141-3.200.html
+
+###
+
+PUT http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 29
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"nome": "nome do produto"
+}
+
+<> 2024-03-31T133141-2.200.html
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T133141-1.200.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T133141.200.html
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T133050.200.html
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T132852.200.html
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T132838.200.html
+
+###
+
+POST http://localhost:8080/carros
+Content-Type: application/json
+Content-Length: 76
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Fabricante",
+  "cor": "Vermelho"
+}
+
+<> 2024-03-31T132809.200.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T132244.200.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T022940.200.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T022939.200.html
+
+###
+
+GET http://localhost:8080/carros
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-31T022935.200.html
+
+###
+
