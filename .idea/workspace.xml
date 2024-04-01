@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d9aa0d4-0575-4694-b916-df0925921a4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/ClasseFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/Funcional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/controllers/CarrosController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/models/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/repositories/CarrosRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Main.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/pro/oliveira/MainTest.java" afterDir="false" />
+    <list default="true" id="5d9aa0d4-0575-4694-b916-df0925921a4f" name="Changes" comment="Primeiro commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/ClasseFuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/pro/oliveira/Funcional.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/AIRTON/IdeaProjects/Airton_de_Oliveira_DR3_TP2",
+    "last_opened_file_path": "C:/Users/AIRTON/IdeaProjects/Airton_de_Oliveira_DR3_AT_Cliente",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,10 +118,33 @@
       <workItem from="1711891845397" duration="14499000" />
       <workItem from="1711930241668" duration="2813000" />
       <workItem from="1711941777974" duration="707000" />
+      <workItem from="1711944117244" duration="744000" />
+      <workItem from="1712007372440" duration="4288000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <option name="closed" value="true" />
+      <created>1711944177936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711944177936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro commit">
+      <option name="closed" value="true" />
+      <created>1711944213668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711944213668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
   </component>
 </project>
