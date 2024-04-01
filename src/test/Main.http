@@ -1,0 +1,35 @@
+###
+GET http://localhost:8080/carros
+
+###
+POST http://localhost:8080/carros
+Content-Type: application/json
+
+{
+  "modelo": "296 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Vermelho"
+}
+
+###
+PUT http://localhost:8080/carros/2
+Content-Type: application/json
+
+{
+  "modelo": "300 GTB",
+  "fabricante": "Ferrari",
+  "cor": "Azul"
+}
+
+###
+PATCH http://localhost:8080/carros
+Content-Type: application/json
+
+{
+"nome": "nome do produto"
+}
+
+###
+DELETE http://localhost:8080/carros/2
+
+
